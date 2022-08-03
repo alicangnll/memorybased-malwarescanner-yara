@@ -1,0 +1,4 @@
+[console_scripts]
+vol = volatility3.cli:main
+volshell = volatility3.cli.volshell:main
+
